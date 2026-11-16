@@ -17,3 +17,9 @@ test
 GitHub
 Visual Studio Code
 test12345
+
+## Feature Login Branch
+
+- Created feature-login branch.
+- Practising Git branching.
+- Learning automation framework development.
